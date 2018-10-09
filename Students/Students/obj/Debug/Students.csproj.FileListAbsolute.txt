@@ -5,3 +5,10 @@ C:\Users\Oleh Pashuk\Desktop\C#\Students\Students\obj\Debug\Students.csprojAssem
 C:\Users\Oleh Pashuk\Desktop\C#\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
 C:\Users\Oleh Pashuk\Desktop\C#\Students\Students\obj\Debug\Students.exe
 C:\Users\Oleh Pashuk\Desktop\C#\Students\Students\obj\Debug\Students.pdb
+C:\Users\Oleh Pashuk\Desktop\homework 3\Students\Students\bin\Debug\Students.exe.config
+C:\Users\Oleh Pashuk\Desktop\homework 3\Students\Students\bin\Debug\Students.exe
+C:\Users\Oleh Pashuk\Desktop\homework 3\Students\Students\bin\Debug\Students.pdb
+C:\Users\Oleh Pashuk\Desktop\homework 3\Students\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Oleh Pashuk\Desktop\homework 3\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Oleh Pashuk\Desktop\homework 3\Students\Students\obj\Debug\Students.exe
+C:\Users\Oleh Pashuk\Desktop\homework 3\Students\Students\obj\Debug\Students.pdb

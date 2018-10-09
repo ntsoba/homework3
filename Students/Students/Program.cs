@@ -19,7 +19,7 @@ namespace Students
             Console.WriteLine("Enter the marks from the chemistry: ");
             int chem = int.Parse(Console.ReadLine());
 
-            if ((math >= 65) || (phys>=55) ||  (chem>=50))
+            if ((math >= 65) & (phys>=55) &  (chem>=50))
             {
                 Console.WriteLine("The students is admitted");
                 Console.ReadKey();
